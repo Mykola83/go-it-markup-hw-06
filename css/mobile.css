@@ -1309,10 +1309,6 @@ ul {
     text-align: left;
   }
 
-  .form-footer {
-    padding-top: 72px;
-  }
-
   .footer-form-element {
     flex-direction: row;
     gap: 24px;
